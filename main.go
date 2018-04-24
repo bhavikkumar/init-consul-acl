@@ -5,7 +5,7 @@ import (
   "time"
   "github.com/hashicorp/consul/api"
   "github.com/rs/zerolog"
-	"github.com/rs/zerolog/log"
+  "github.com/rs/zerolog/log"
 )
 
 const (
